@@ -25,7 +25,7 @@
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
-        <members>boatMap</members>
+        <members>*</members>
         <name>LightningComponentBundle</name>
     </types>
     <types>

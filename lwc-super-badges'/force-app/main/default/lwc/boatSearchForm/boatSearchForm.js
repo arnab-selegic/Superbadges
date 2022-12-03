@@ -13,7 +13,6 @@ export default class BoatSearchForm extends LightningElement {
     searchOptions;
     
     // Wire a custom Apex method
-    
     @wire(getBoatTypes)
     boatTypes({ data, error }) {
         if (data) {
@@ -39,4 +38,4 @@ export default class BoatSearchForm extends LightningElement {
         });
         this.dispatchEvent(searchEvent);
     }
-}  
+}

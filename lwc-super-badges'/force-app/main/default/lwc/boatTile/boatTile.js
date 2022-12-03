@@ -1,5 +1,3 @@
-
-
 import { api, LightningElement } from 'lwc';
 
 const TILE_WRAPPER_SELECTED_CLASS = 'tile-wrapper selected';
