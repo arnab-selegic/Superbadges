@@ -1,2 +1,2 @@
-# Lightning-Web-Components-Specialist --- Completed
-# Apex - Specialist --- TBD
+# Lightning-Web-Components-Specialist --- Done
+# Apex - Specialist --- Done
