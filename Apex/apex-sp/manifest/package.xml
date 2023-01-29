@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MaintenanceRequestHelper</members>
+        <members>WarehouseCalloutService</members>
+        <members>WarehouseSyncSchedule</members>
+        <members>MaintenanceRequestHelperTest</members>
+        <members>WarehouseCalloutServiceMock</members>
+        <members>WarehouseCalloutServiceTest</members>
+        <members>WarehouseSyncScheduleTest</members>
+        <name>ApexClass</name>
+    </types>
+
+    <types>
+        <members>MaintenanceRequest</members>
+        <name>ApexTrigger</name>
+    </types>
+   
+    <version>56.0</version>
+</Package>
